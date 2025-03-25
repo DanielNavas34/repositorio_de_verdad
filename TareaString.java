@@ -5,6 +5,7 @@ public class TareaString {
         System.out.println("Programa iniciado.");
         
         String daniel;
+        Int num2;
         
     }
 }
