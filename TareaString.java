@@ -6,6 +6,8 @@ public class TareaString {
         
         String daniel;
         Int num2;
+
+        System.out.println("Pablo, ya mismo estamos borrando cosas de verdad.");
         
     }
 }
